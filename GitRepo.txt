@@ -1,2 +1,4 @@
 This is the begining of our new Repo. Init was deleted and it cannot
 be recovered at the moment.
+
+Now we want this line to remain. Not to be deleted
