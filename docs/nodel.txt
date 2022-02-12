@@ -1,0 +1,19 @@
+192  git commit
+  193  clear
+  194  git status
+  195  git log
+  196  nano GitRepo.md
+  197  git status
+  198  git add GitRepo.md
+  199  git commit -m "Testing Editing and versioning"
+  200  git log
+  201   nano GitRepo.md
+  202  git status
+  203  git add GitRepo.md
+  204  git commit -m "This is 3rd version of our repo"
+  205  git log
+  206  git log --oneline
+  207  clear
+
+
+
