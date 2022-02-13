@@ -3,7 +3,7 @@ def my_squar(x):
 
 print(my_squar(3))
 
-int age =int(input("What is your age: "))
+int age =input(int("What is your age: "))
 if age ==33:
 	print("you can still learn programming")
 elif age < 33:
