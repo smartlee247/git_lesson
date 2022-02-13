@@ -1,3 +1,5 @@
+
+
 def my_squar(x):
 	return(x ** 2)
 
