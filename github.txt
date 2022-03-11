@@ -1,0 +1,7 @@
+-------Connecting Github with Git using HTTP------------------
+*push = used from git to push updates to github
+*pull = used from git to pull updates[made from web] from github
+Quick Setup Steps:
+git remote add origin [https://github.com/smartlee247/git_lesson.git]
+	git remote -v
+ 
