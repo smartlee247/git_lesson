@@ -15,4 +15,5 @@
 Checking the differences or last-known state of our file/repo
 -git diff
 -git status --staged
--
+-git reset HEAD README.md =this command unstages uncommited or staged changes
+
