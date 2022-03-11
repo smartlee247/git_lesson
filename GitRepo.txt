@@ -3,6 +3,7 @@
 -git status= shows if there is new changes to our git repo
 -git add [FileName] or [.](dot tells the command to add all changes without specifying filename)= adds the new change made to our git repo
 -git commit [FileName]= commits/saves the changes that werein staged status.
+-git status --staged = this command shows you changes that were added (staged) but not really commited
 -git log
 -git log --oneline
 ----------------------------------
@@ -11,4 +12,4 @@
 ---------------
 Checking the differences or last-known state of our file/repo
 -git diff
-
+-git status --staged
