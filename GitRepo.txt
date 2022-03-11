@@ -1,11 +1,14 @@
 =========This is the begining of our crreating new Git Repo=========
-git init =this line of code should be carefully used. Run it only on a subfoldr or directory you want your git files to be and which can be removed or recreated 
-git status= shows if there is new changes to our git repo
-git add [FileName] or [.](dot tells the command to add all changes without specifying filename)= adds the new change made to our git repo
-git commit [FileName]= commits/saves the changes that werein staged status.
-git log
-git log --oneline
+-git init =this line of code should be carefully used. Run it only on a subfoldr or directory you want your git files to be and which can be removed or recreated 
+-git status= shows if there is new changes to our git repo
+-git add [FileName] or [.](dot tells the command to add all changes without specifying filename)= adds the new change made to our git repo
+-git commit [FileName]= commits/saves the changes that werein staged status.
+-git log
+-git log --oneline
 ----------------------------------
-git add .
-git commit -m "This is a change made to our git file"
+-git add .
+-git commit -m "This is a change made to our git file"
 ---------------
+Checking the differences or last-known state of our file/repo
+-git diff
+
