@@ -6,6 +6,8 @@
 -git status --staged = this command shows you changes that were added (staged) but not really commited
 -git log
 -git log --oneline
+-git checkout main or my_branch or any other branch you create
+**git_checkout [BranchName] switches from current branch to the specified branch
 ----------------------------------
 -git add .
 -git commit -m "This is a change made to our git file"
@@ -13,3 +15,4 @@
 Checking the differences or last-known state of our file/repo
 -git diff
 -git status --staged
+-
