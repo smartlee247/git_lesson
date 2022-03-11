@@ -1,3 +1,4 @@
+This is about my efforts in learning how to work on Git
 What was your motivation?
 Why did you build this project?
 What problem does it solve?
