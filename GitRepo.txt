@@ -18,7 +18,7 @@ Checking the differences or last-known state of our file/repo
 -git status --staged
 -git reset HEAD README.md =this command unstages uncommited or staged changes
 -git reset --hard
--
+-push --set-upstream origin my_branch
 -
 -
 -

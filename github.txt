@@ -4,4 +4,4 @@
 Quick Setup Steps:
 git remote add origin [https://github.com/smartlee247/git_lesson.git]
 	git remote -v
- 
+push --set-upstream origin my_branch 
