@@ -20,6 +20,10 @@ Checking the differences or last-known state of our file/repo
 -git reset --hard
 -push --set-upstream origin my_branch
 -
--
+======How to Create a branch. Switch to Different Branches=========
+-git branch collab_branch: Creates branch "collab_branch"
+-git checkout collab_branch "Makes collab_branch as the current active branch"
+-git branch -a: "Shows all available branches with *[branchName] being active one in use
+-git branch -d collab_branch: This command deletes the Branch specified
 -
  
