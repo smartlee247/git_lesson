@@ -25,5 +25,9 @@ Checking the differences or last-known state of our file/repo
 -git checkout collab_branch "Makes collab_branch as the current active branch"
 -git branch -a: "Shows all available branches with *[branchName] being active one in use
 -git branch -d collab_branch: This command deletes the Branch specified
--
+-git log --oneline --graph --decorate --all: gives nicer logs
+-git merge [branch you want changes to reflect] e.g git merge main or git merge my_branch
+-git fetch --prune: the fetch fetches every changes made in the git web and the prune tells it to remove any branch that is not also available locally.
+-git branch -D: forces a deletion of a branch
+
  
