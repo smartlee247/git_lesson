@@ -1,4 +1,25 @@
-This is the begining of our new Repo. Init was deleted and it cannot
-be recovered at the moment.
-
-Now we want this line to remain. Not to be deleted
+=========This is the begining of our crreating new Git Repo=========
+-git init =this line of code should be carefully used. Run it only on a subfoldr or directory you want your git files to be and which can be removed or recreated 
+-git status= shows if there is new changes to our git repo
+-git add [FileName] or [.](dot tells the command to add all changes without specifying filename)= adds the new change made to our git repo
+-git commit [FileName]= commits/saves the changes that werein staged status.
+-git status --staged = this command shows you changes that were added (staged) but not really commited
+-git log
+-git log --oneline
+-git checkout main or my_branch or any other branch you create
+**git_checkout [BranchName] switches from current branch to the specified branch
+----------------------------------
+-git add .
+-git commit -m "This is a change made to our git file"
+---------------
+Checking the differences or last-known state of our file/repo
+-git diff
+-git checkout HEAD~1 [FileName] e.g git checkout HEAD~1 README.md
+-git status --staged
+-git reset HEAD README.md =this command unstages uncommited or staged changes
+-git reset --hard
+-push --set-upstream origin my_branch
+-
+-
+-
+ 
